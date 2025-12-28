@@ -15,31 +15,23 @@ I am a Senior Research Scientist at the Berlin Institute for the Foundations of 
 
 My research focuses on machine learning and deep learning, signal and image processing, Earth observation, and remote sensing, with particular emphasis on robust, sparse, and interpretable models for real-world multisensor data.
 
+---
+
 ## Current Focus
 - Physics-aware foundation models for Earth observation
 - Spectral unmixing
 - Onboard hyperspectral super-resolution
 - Multisensor data fusion
 
+---
 
-# Publications
-
-For a complete and up-to-date list of my publications, please see:
-
-- Google Scholar: https://scholar.google.is/citations?user=hA_Xi6MAAAAJ&hl=en
-
-
-### Projects & Code
-- Open-source research code on GitHub
-
-### Service
-- Editorial and reviewing activities
-- 
 ## Activities
 - **Publications:** [Google Scholar](/publications)
 - **Projects & Code:** [Selected projects and software](/projects)
 - **Teaching & Supervision:** MSc and PhD co-supervision at TU Berlin and partner institutions
-- **Editorial Service:** Associate Editor (IEEE GRSL), Topic Editor (Remote Sensing, MDPI)
+- **Editorial Service:** Associate Editor (IEEE GRSL), Topic Editor (*Remote Sensing*, MDPI)
+
+---
 
 ## Contact
 - Email: behnood.rasti@gmail.com
