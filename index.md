@@ -13,7 +13,7 @@ Berlin, Germany
 ## About
 I am a Senior Research Scientist at the Berlin Institute for the Foundations of Learning and Data (BIFOLD) and the Faculty of Electrical Engineering and Computer Science (EECS), Technische Universität Berlin, Germany. I am an IEEE Senior Member and serve as an Associate Editor for *IEEE Geoscience and Remote Sensing Letters (GRSL)*.
 
-My research focuses on machine learning and deep learning, signal and image processing, Earth observation, and remote sensing, with particular emphasis on robust, sparse, and interpretable models for real-world multisensor data.
+My research focuses on machine learning and deep learning, signal and image processing, Earth observation, and remote sensing.
 
 ---
 
@@ -28,8 +28,8 @@ My research focuses on machine learning and deep learning, signal and image proc
 ## Activities
 - **Publications:** [Google Scholar](/publications)
 - **Projects & Code:** [Selected projects and software](/projects)
-- **Teaching & Supervision:** MSc and PhD co-supervision at TU Berlin and partner institutions
-- **Editorial Service:** Associate Editor (IEEE GRSL), Topic Editor (*Remote Sensing*, MDPI)
+- **Teaching & Supervision:** MSc and PhD co-supervision at TU Berlin, University of Antwerp, and   HZDR
+- **Editorial Service:** Associate Editor (IEEE GRSL)
 
 ---
 
