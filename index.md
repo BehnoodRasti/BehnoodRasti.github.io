@@ -4,7 +4,8 @@ title: Behnood Rasti
 ---
 
 # Behnood Rasti
-<img src="/assets/BR2.png" alt="Behnood Rasti" width="180" style="border-radius: 50%;">
+
+<img src="/assets/BR2.png" alt="Behnood Rasti" width="180">
 
 Senior Research Scientist · BIFOLD & TU Berlin  
 Berlin, Germany
