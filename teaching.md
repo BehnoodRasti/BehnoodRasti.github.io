@@ -17,9 +17,6 @@ permalink: /teaching/
 - **Advanced Hyperspectral Image Analysis** *(Guest Lecturer)* — Nov. 2021; 2022 
 
 ### University of Iceland (BSc) — Department of Electrical and Computer Engineering 
-Responsible lecturer for all courses below, including preparation of lecture and laboratory materials.
-
-**Courses**
 - Introduction to Actuators and Control Systems — 2019
 - PLC/PAC — 2017; 2018 (Spring, Fall)
 - Circuit Theory I — 2017; 2018; 2019
@@ -31,7 +28,7 @@ Responsible lecturer for all courses below, including preparation of lecture and
 - Introduction to Actuators — 2016; 2017
 - Introduction to Sensors — 2016; 2017
 
-**Project-based (hands-on) courses**
+**Project-based courses**
 - Project I — 2016; 2017; 2018
 - Project II — 2016; 2017; 2018
 - BSc Preparation for Final Project — 2016; 2017; 2018
