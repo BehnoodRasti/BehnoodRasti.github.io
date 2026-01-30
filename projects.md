@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## Open-source packages
 
-- **[SSL4HFM](https://github.com/BehnoodRasti/SSL4HFM)** — Self-supervised learning package for hyperspectral foundation models. 
+- **[SSL4HFM](https://github.com/BehnoodRasti/SSL4HFM)** — Self-supervised learning package for hyperspectral foundation models (four models). 
 - **[FUnmix](https://github.com/BehnoodRasti/FUnmix)** — Fast semi-supervised unmixing Python package (two methods). 
 - **[HySUPP](https://github.com/BehnoodRasti/HySUPP)** — Hyperspectral unmixing Python package (20 methods). 
 - **[Unmixing Tutorial Package](https://github.com/BehnoodRasti/Unmixing_Tutorial_IEEE_IADF)** — Python package + Jupyter notebooks (incl. Colab) for seven unmixing methods. 
