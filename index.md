@@ -37,8 +37,7 @@ My research focuses on machine learning and deep learning, signal and image proc
 ---
 
 ## Contact
-- Email: behnood.rasti@gmail.com
-- Google Scholar: https://scholar.google.is/citations?user=hA_Xi6MAAAAJ&hl=en
-- ORCID: https://orcid.org/0000-0002-1091-9841
-- GitHub: https://github.com/BehnoodRasti
-- LinkedIn: https://www.linkedin.com/in/behnood-rasti-53ba9bb8/
+- Email: [behnood.rasti@gmail.com](mailto:behnood.rasti@gmail.com)
+- ORCID: [0000-0002-1091-9841](https://orcid.org/0000-0002-1091-9841)
+- GitHub: [BehnoodRasti](https://github.com/BehnoodRasti)
+- LinkedIn: [Behnood Rasti](https://www.linkedin.com/in/behnood-rasti-53ba9bb8/)
