@@ -30,7 +30,7 @@ My research focuses on machine learning and deep learning, signal and image proc
 ## Activities
 - **Publications:** [Google Scholar](/publications/)
 - **Projects & Code:** [Selected projects and software](/projects/)
-- **Teaching & Supervision:** MSc and PhD co-supervision at TU Berlin, University of Antwerp, and HZDR
+- **Teaching & Supervision:** [Students & supervision](/teaching/)
 - **Editorial Service:** Associate Editor (IEEE GRSL)
 
 
