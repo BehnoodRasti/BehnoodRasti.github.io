@@ -6,6 +6,42 @@ permalink: /teaching/
 
 # Teaching & Supervision
 
+## Teaching experience
+
+### TU Berlin (MSc) — Faculty of Electrical Engineering and Computer Science
+- **Projects in Deep Learning for Earth Observation (DL4EO)** — 2025 
+- **Projects in Computer Vision for Remote Sensing (CV4RS)** — 2024 
+- **Image Processing for Remote Sensing (IP4RS)** — 2024
+
+### Université Grenoble Alpes (MSc) — Grenoble Institute of Technology
+- **Advanced Hyperspectral Image Analysis** *(Guest Lecturer)* — Nov. 2021; 2022 
+
+### University of Iceland (BSc) — Department of Electrical and Computer Engineering 
+Responsible lecturer for all courses below, including preparation of lecture and laboratory materials.
+
+**Courses**
+- Introduction to Actuators and Control Systems — 2019
+- PLC/PAC — 2017; 2018 (Spring, Fall)
+- Circuit Theory I — 2017; 2018; 2019
+- Control Systems — 2017; 2018
+- Electrical Engineering Lab Orientation — 2017; 2018
+- Circuit Theory II — 2016; 2017; 2018
+- Electronic Circuits — 2019
+- Data Acquisition and Processing — 2016; 2017; 2018
+- Introduction to Actuators — 2016; 2017
+- Introduction to Sensors — 2016; 2017
+
+**Project-based (hands-on) courses**
+- Project I — 2016; 2017; 2018
+- Project II — 2016; 2017; 2018
+- BSc Preparation for Final Project — 2016; 2017; 2018
+
+### University of Iceland (MSc) — Department of Electrical and Computer Engineering
+- **Linear Systems** — 2016  
+  Substituted for the main lecturer on sabbatical; fully responsible for lectures.
+
+---
+
 ## PhD student co-supervision
 
 - **Lars Möllenbrok** — TU Berlin 
