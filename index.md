@@ -30,7 +30,7 @@ My research focuses on machine learning and deep learning, signal and image proc
 ## Activities
 - **Publications:** [Google Scholar](/publications/)
 - **Projects & Code:** [Selected projects and software](/projects/)
-- **Teaching & Supervision:** [Students & supervision](/teaching/)
+- **Teaching & Supervision:** [Students & Courses](/teaching/)
 - **Editorial Service:** Associate Editor (IEEE GRSL)
 
 
