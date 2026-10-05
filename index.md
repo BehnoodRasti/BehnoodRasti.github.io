@@ -7,37 +7,47 @@ title: Behnood Rasti
 
 <img src="/assets/BR2.png" alt="Behnood Rasti" width="180">
 
-Senior Research Scientist · BIFOLD & TU Berlin  
-Berlin, Germany
+Senior Research Scientist · National Technical University of Athens (NTUA)  
+Athens, Greece
 
 ---
 
 ## About
-I am a Senior Research Scientist at the Berlin Institute for the Foundations of Learning and Data (BIFOLD) and the Faculty of Electrical Engineering and Computer Science (EECS), Technische Universität Berlin, Germany. I am an IEEE Senior Member and serve as an Associate Editor for *IEEE Geoscience and Remote Sensing Letters (GRSL)*.
 
-My research focuses on machine learning and deep learning, signal and image processing, Earth observation, and remote sensing.
+I am a Senior Research Scientist at the **National Technical University of Athens (NTUA), Greece**.
+
+My research focuses on **machine learning and deep learning, signal and image processing, Earth observation, remote sensing, hyperspectral imaging, and artificial intelligence**.
+
+---
+
+## Current Project
+
+**PROTEUS** — Research at the National Technical University of Athens (NTUA) focusing on advanced Earth observation and remote sensing methodologies.
 
 ---
 
 ## Current Focus
-- Physics-aware foundation models for Earth observation
-- Spectral unmixing
-- Onboard hyperspectral super-resolution
-- Multisensor data fusion
+
+- Hyperspectral imaging and spectral unmixing
+- Foundation models and self-supervised learning for Earth observation
+- Multisensor and multimodal data fusion
+- Hyperspectral image restoration and compression
+- AI for remote sensing
 
 ---
 
 ## Activities
+
 - **Publications:** [Google Scholar](https://scholar.google.is/citations?user=hA_Xi6MAAAAJ&hl=en)
 - **Projects & Code:** [Selected projects and software](/projects/)
 - **Teaching & Supervision:** [Students & Courses](/teaching/)
-- **Editorial Service:** Associate Editor (IEEE GRSL)
-
+- **Editorial Service:** Associate Editor, IEEE Geoscience and Remote Sensing Letters (GRSL)
 
 ---
 
 ## Contact
+
 - Email: [behnood.rasti@gmail.com](mailto:behnood.rasti@gmail.com)
 - ORCID: [0000-0002-1091-9841](https://orcid.org/0000-0002-1091-9841)
-- GitHub: [https://github.com/BehnoodRasti](https://github.com/BehnoodRasti)
-- LinkedIn: [https://www.linkedin.com/in/behnood-rasti-53ba9bb8/](https://www.linkedin.com/in/behnood-rasti-53ba9bb8/)
+- GitHub: [github.com/BehnoodRasti](https://github.com/BehnoodRasti)
+- LinkedIn: [linkedin.com/in/behnood-rasti-53ba9bb8](https://www.linkedin.com/in/behnood-rasti-53ba9bb8/)
